@@ -9,7 +9,7 @@
 
 ### Step 1: Install Python Dependencies
 ```bash
-pip install fastapi uvicorn torch
+pip install fastapi uvicorn python-dotenv pillow torch google-genai pydantic torchvision numpy
 ```
 ### Step 2: Setup Frontend
 Navigate to the frontend directory and run:
