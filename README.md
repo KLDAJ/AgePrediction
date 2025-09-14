@@ -19,7 +19,7 @@ npm install firebase
 npm run build
 ```
 ### Step 3: Run the Application
-Start the local development server with:
+Start the local development server in the **backend folder** with:
 ```bash
 uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ```
